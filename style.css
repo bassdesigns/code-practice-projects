@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    width: 350px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center space-between;
+    background-color: aquamarine;
+    border: solid transparent;
+    border-radius: 10%;
+}
+
+
+img{
+   width:200px;
+   height:190 px;
+   align-self: center;
+  
+}
+p{
+    color:rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    align-self: center;
+
+
+
+} 
