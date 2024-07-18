@@ -11,7 +11,7 @@ html, body {
     display: flex;
     flex-direction: column;
     justify-content:center;
-    align-items: center space-between;
+    align-items: space-between;
     background-color: aquamarine;
     border: solid transparent;
     border-radius: 10%;
@@ -20,7 +20,7 @@ html, body {
 
 img{
    width:200px;
-   height:190 px;
+   height:190px;
    align-self: center;
   
 }
